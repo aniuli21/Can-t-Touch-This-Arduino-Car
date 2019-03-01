@@ -14,7 +14,7 @@
 
 **Instructions:**
 
-Connect Arduino UNO to power then start aproaching the car just to see it running from you
+Connect Arduino UNO to power then start approaching the car just to see it running from you
 
 **Code is available in:** [proiect_v2.ino](./proiect_v2.ino)
 
